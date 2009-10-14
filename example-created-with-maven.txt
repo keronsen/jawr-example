@@ -1,0 +1,1 @@
+mvn archetype:create -DgroupId=no.bekk.jawrexample -DartifactId=JawrExample -DarchetypeGroupId=org.apache.struts -DarchetypeArtifactId=struts2-archetype-starter -DarchetypeVersion=2.0.11.2-SNAPSHOT -DremoteRepositories=http://people.apache.org/maven-snapshot-repository
